@@ -6,7 +6,7 @@
   >
 </p>
 
-<p style="font-size: 24px;"><strong>Socials:</strong></p>
+<p style="font-size: 24px;">Socials:</p>
 
 <p>
   <a href="mailto:paulotjr20080@gmail.com">
