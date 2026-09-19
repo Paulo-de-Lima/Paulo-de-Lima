@@ -8,7 +8,7 @@
 
 <h2>Socials</h2>
 
-<p align="center">
+<p>
   <a href="mailto:paulotjr20080@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email">
   </a>
@@ -24,6 +24,6 @@
 
 <h2>Languages & Tools</h2>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,git,figma,html,mysql,tailwind,react,reactnative" />
 </p>
