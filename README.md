@@ -6,7 +6,7 @@
   >
 </p>
 
-<p style="font-size: 24px;">Socials:</p>
+<h3><font size="5">Socials</font></h3>
 
 <p>
   <a href="mailto:paulotjr20080@gmail.com">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<p style="font-size: 24px;"><strong>Languages & Tools:</strong></p>
+<h3><font size="5">Language & Tools</font></h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,git,figma,html,mysql,tailwind,react,reactnative" />
