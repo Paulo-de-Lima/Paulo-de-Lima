@@ -6,7 +6,7 @@
   >
 </p>
 
-## Socials
+<p><strong>Socials:</strong></p>
 
 <p>
   <a href="mailto:paulotjr20080@gmail.com">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## Languages & Tools
+<p><strong>Languages & Tools:</strong></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,git,figma,html,mysql,tailwind,react,reactnative" />
