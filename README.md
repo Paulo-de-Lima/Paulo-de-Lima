@@ -6,12 +6,13 @@
   >
 </p>
 
-<h2>Socials</h2>
+## Socials
 
 <p>
   <a href="mailto:paulotjr20080@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/paulo-j%C3%BAnior-623608265/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
   </a>
@@ -21,7 +22,7 @@
   </a>
 </p>
 
-<h2>Languages & Tools</h2>
+## Languages & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,git,figma,html,mysql,tailwind,react,reactnative" />
