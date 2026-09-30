@@ -12,11 +12,9 @@
   <a href="mailto:paulotjr20080@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/paulo-j%C3%BAnior-623608265/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/itspjota/">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram">
   </a>
