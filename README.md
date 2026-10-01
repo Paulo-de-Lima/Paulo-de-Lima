@@ -23,5 +23,5 @@
 <h3><font size="5">Language & Tools</font></h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ruby,rails,html,git,figma,mysql,tailwind,react,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ruby,rails,html,css,git,figma,mysql,tailwind,react,linux" />
 </p>
